@@ -11,7 +11,7 @@
    - **Website**: [Quill](https://quilljs.com/)
    - **Features**: Custom themes, modules, and a large number of formatting options.
 
-4. **Tiptap**: A renderless and extendable rich text editor for Vue.js, but it also has a React wrapper.
+4. **Tiptap**: A renderless and extendable rich text editor for Vue.js, but it also has a React wrapper. #tiptap #rich-text-editor
    - **Website**: [Tiptap](https://tiptap.dev/)
    - **Features**: Extensible, collaborative editing, and markdown support.
    - **Example:** [Github Repo](https://github.com/dtg-lucifer/demo-rich-text-editor)
@@ -38,7 +38,7 @@ const Tiptap = () => {
 export default Tiptap;
 ```
 ---
-**For the hand drawn like feeling of the drawings we make on the canvas**
+**For the hand drawn like feeling of the drawings we make on the canvas** #drawing #canvas #svg #roughjs #excallidraw 
 1. **Rough.js**: A react library which is also used by excallidraw
 	- **Wiki:** [Rough.js GIthub](https://github.com/rough-stuff/rough/wiki#roughjs-api)
 	-  **Example:**![[Pasted image 20240628113628.png]]
