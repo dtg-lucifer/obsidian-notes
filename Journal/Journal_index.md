@@ -1,3 +1,7 @@
 ---
-INDEX:
+INDEX: 
+tags:
+  - daily
+  - career
+  - learning
 ---

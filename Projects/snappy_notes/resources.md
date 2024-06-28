@@ -1,3 +1,14 @@
+---
+tags:
+  - snappy-notes
+  - frontend
+  - canvas
+  - rich-text-editor
+  - roughjs
+  - css
+  - drawing
+  - design
+---
 ### Rich Text Editor Libraries
 1. **Slate.js**: A highly customizable framework for building rich text editors in React.
    - **Website**: [Slate.js](https://www.slatejs.org/)
@@ -29,7 +40,7 @@ const Tiptap = () => {
   });
 
   return (
-    <React.Fragment>\
+    <React.Fragment>
       <EditorContent editor={editor} controls={true} />
     </React.Fragment>
   );
@@ -40,7 +51,9 @@ export default Tiptap;
 ---
 **For the hand drawn like feeling of the drawings we make on the canvas** #drawing #canvas #svg #roughjs #excallidraw 
 1. **Rough.js**: A react library which is also used by excallidraw
-	- **Wiki:** [Rough.js GIthub](https://github.com/rough-stuff/rough/wiki#roughjs-api)
+	- **Wiki:** [Rough.js Documentation](https://github.com/rough-stuff/rough/wiki#roughjs-api)
+	- **Full code:** [Repo](https://github.com/redhwannacef/youtube-tutorials/tree/main/excalidraw-tutorial)
+	- **Playlist**: [Youtube](https://youtube.com/playlist?list=PLSxgVLtIB0IFmQGuVMSE_wDHPW5rq4Ik7&si=OgGB2EujWbn2meW1)
 	-  **Example:**![[Pasted image 20240628113628.png]]
 	- **Code:** 
 ```js
@@ -65,6 +78,10 @@ rc.rectangle(120, 105, 80, 80, {
 	fillStyle: 'solid' // solid fill
 });
 ```
+2. **Fonts for the text and symbolic handwriting like feeling:**
+	- **Excallidraw+ home page fonts:**
+		![[Screenshot 2024-06-29 014402.png]]
+	- **Excallidraws UI fonts:** [Github issue for the reference](https://github.com/excalidraw/excalidraw/issues/2945)
 ---
 
 ### Markdown Parsing and Rendering
