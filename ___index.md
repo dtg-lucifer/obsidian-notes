@@ -1,9 +1,11 @@
 ---
 INDEX: indexing for whole vault
+share_link: https://share.note.sx/fyv7htyn#gcU8YHlZlaTyRQXIOqhY8iOrVUvpQ1xlo+/dLHBm75A
+share_updated: 2024-06-30T13:45:36+05:30
 ---
 # Learning notes:
 
-***[[Frontend_index]]*** - contains the index for all of the notes containing the #frontend
+***[[_index]]*** - contains the index for all of the notes containing the #frontend
 - everything i learn from the internet about the frontend
 - such as #design #systemdesign #mockup #layout #frameworks #library #css #javascript #html #ui #ux
 
@@ -19,10 +21,11 @@ INDEX: indexing for whole vault
 
 ---
 ***[[Journal_index]]*** - here are all the files which i am gonna make as i write my important daily journal
+- [[Todo_index]]
 
 ---
-**[[Projects]]** - here is the folder which contains the project files of my projecs
+***Projects*** - here is the folder which contains the project files of my projects
 - it would generally contain a single file for each #project
-- like [[Projects/snappy_notes/idea]] for the rich text editor and note taking app we are currently working on
+- like [[01_Projects/snappy_notes/idea]] for the rich text editor and note taking app we are currently working on
 
 ---
