@@ -1,2 +1,3 @@
-- [[_index]]
+- [[Frontend_index]]
 - [[Backend_Index]]
+- [[DSA_Index]] - #dsa #algorithms

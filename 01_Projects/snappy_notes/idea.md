@@ -45,4 +45,5 @@ We want to give the app the look of an actual hand written note base like the **
 - But for multiple notes saving and sharing he has to authenticate himself.
 - The rich text editor should look like ***One Note***
 - The ***Sketch*** section should have a ==**Laser pointer type tool which will be used in presentation mode**==
+- Every user should be able to attach their own sketches to the text area whenever and wherever they want.
 - 

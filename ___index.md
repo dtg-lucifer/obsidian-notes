@@ -5,7 +5,7 @@ share_updated: 2024-06-30T13:45:36+05:30
 ---
 # Learning notes:
 
-***[[_index]]*** - contains the index for all of the notes containing the #frontend
+***[[Frontend_index]]*** - contains the index for all of the notes containing the #frontend
 - everything i learn from the internet about the frontend
 - such as #design #systemdesign #mockup #layout #frameworks #library #css #javascript #html #ui #ux
 
@@ -25,6 +25,7 @@ share_updated: 2024-06-30T13:45:36+05:30
 
 ---
 ***Projects*** - here is the folder which contains the project files of my projects
+- Ideas live in here - [[__index]]
 - it would generally contain a single file for each #project
 - like [[01_Projects/snappy_notes/idea]] for the rich text editor and note taking app we are currently working on
 

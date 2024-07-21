@@ -8,8 +8,11 @@ tags:
   - css
   - drawing
   - design
+share_link: https://share.note.sx/scnfffqs#r0Al3+87s9XWkb5f8wNNHJQZMoPOLcc+JdvwurbkelQ
+share_updated: 2024-07-03T12:07:26+05:30
 ---
-### Rich Text Editor Libraries
+# Rich Text Editor Libraries
+
 1. **Slate.js**: A highly customizable framework for building rich text editors in React.
    - **Website**: [Slate.js](https://www.slatejs.org/)
    - **Features**: Extensible, supports complex formatting, plugins, and markdown.
@@ -25,6 +28,7 @@ tags:
 4. **Tiptap**: A renderless and extendable rich text editor for Vue.js, but it also has a React wrapper. #tiptap #rich-text-editor
    - **Website**: [Tiptap](https://tiptap.dev/)
    - **Features**: Extensible, collaborative editing, and markdown support.
+   - **Documentation**: [Starter-kit documentation](https://github.com/ueberdosis/tiptap/blob/develop/docs/api/extensions/starter-kit.md), [Details about each node and extension](https://tiptap.dev/docs/editor/extensions/nodes/)
    - **Example:** [Github Repo](https://github.com/dtg-lucifer/demo-rich-text-editor)
 ```jsx
 "use client";  
@@ -49,12 +53,15 @@ const Tiptap = () => {
 export default Tiptap;
 ```
 ---
+# Sketching libraries
+
 **For the hand drawn like feeling of the drawings we make on the canvas** #drawing #canvas #svg #roughjs #excallidraw 
 1. **Rough.js**: A react library which is also used by excallidraw
 	- **Wiki:** [Rough.js Documentation](https://github.com/rough-stuff/rough/wiki#roughjs-api)
 	- **Full code:** [Repo](https://github.com/redhwannacef/youtube-tutorials/tree/main/excalidraw-tutorial)
 	- **Playlist**: [Youtube](https://youtube.com/playlist?list=PLSxgVLtIB0IFmQGuVMSE_wDHPW5rq4Ik7&si=OgGB2EujWbn2meW1)
-	-  **Example:**![[Pasted image 20240628113628.png]]
+	-  **Example:**
+		![[Pasted image 20240628113628.png]]
 	- **Code:** 
 ```js
 import rough from 'roughjs';
@@ -81,10 +88,12 @@ rc.rectangle(120, 105, 80, 80, {
 2. **Fonts for the text and symbolic handwriting like feeling:**
 	- **Excallidraw+ home page fonts:**
 		![[Screenshot 2024-06-29 014402.png]]
-	- **Excallidraws UI fonts:** [Github issue for the reference](https://github.com/excalidraw/excalidraw/issues/2945)
+	- **Excallidraw's UI fonts:** [Github issue for the reference](https://github.com/excalidraw/excalidraw/issues/2945)
+	
 ---
 
-### Markdown Parsing and Rendering
+# Markdown Parsing and Rendering
+
 1. **Remark**: A powerful markdown processor powered by unified.
    - **Website**: [Remark](https://remark.js.org/)
    - **Features**: Plugins for processing markdown, converting markdown to React components.
@@ -93,7 +102,8 @@ rc.rectangle(120, 105, 80, 80, {
    - **Website**: [Markdown-it](https://github.com/markdown-it/markdown-it)
    - **Features**: Plugins, custom syntax, and high performance.
 
-### File System and Storage
+# File System and Storage
+
 1. **File System API**: Use the native file system API to read and write local files.
    - **Website**: [File System API](https://developer.mozilla.org/en-US/docs/Web/API/File_System_Access_API)
    - **Features**: Direct access to the user’s file system.
@@ -102,7 +112,8 @@ rc.rectangle(120, 105, 80, 80, {
    - **Website**: [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
    - **Features**: Efficient storage and retrieval of data.
 
-### State Management
+# State Management
+
 1. **Redux**: A predictable state container for JavaScript apps.
    - **Website**: [Redux](https://redux.js.org/)
    - **Features**: Centralized state management, easy debugging, and tools for development.
@@ -111,7 +122,8 @@ rc.rectangle(120, 105, 80, 80, {
    - **Website**: [Recoil](https://recoiljs.org/)
    - **Features**: Fine-grained state updates, easy to use, and interoperable with React.
 
-### Next.js Specific
+# Next.js Specific
+
 1. **API Routes**: Utilize Next.js API routes to handle backend logic.
    - **Website**: [API Routes](https://nextjs.org/docs/api-routes/introduction)
    - **Features**: Serverless functions, easy to set up and deploy.
@@ -120,7 +132,8 @@ rc.rectangle(120, 105, 80, 80, {
    - **Website**: [Next.js Rendering](https://nextjs.org/docs/basic-features/pages#static-generation-recommended)
    - **Features**: Optimized for performance and SEO.
 
-### Collaboration and Real-time Features
+# Collaboration and Real-time Features
+
 1. **Socket.io**: Enables real-time, bidirectional communication.
    - **Website**: [Socket.io](https://socket.io/)
    - **Features**: Real-time data transfer, easy integration with Next.js.
@@ -129,10 +142,12 @@ rc.rectangle(120, 105, 80, 80, {
    - **Website**: [Yjs](https://yjs.dev/)
    - **Features**: Real-time collaboration, offline support, conflict resolution.
 
-### Other Useful Tools
+# Other Useful Tools
+
 1. **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
    - **Website**: [Tailwind CSS](https://tailwindcss.com/)
    - **Features**: Highly customizable, responsive design, and reusable styles.
+   - **Ui libraries**: shadcn/ui - magicui - aceternity ui
 
 2. **Prism.js**: A lightweight, extensible syntax highlighter.
    - **Website**: [Prism.js](https://prismjs.com/)
