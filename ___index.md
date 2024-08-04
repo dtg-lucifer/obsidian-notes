@@ -24,6 +24,14 @@ share_updated: 2024-06-30T13:45:36+05:30
 - [[Todo_index]]
 
 ---
+
+[[DSA_Index]]
+
+[[devops_index]]
+
+[[system_desing_index]]
+
+---
 ***Projects*** - here is the folder which contains the project files of my projects
 - Ideas live in here - [[__index]]
 - it would generally contain a single file for each #project

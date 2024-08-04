@@ -14,6 +14,7 @@ INDEX: indexing for the new technologies i learn everyday
 - [[0009_Video_player]]
 - [[0010_micro_animations_with_css]]
 - [[0011_advanced_typescript]]
+- [[0012_cmdk]]
 ---
 # Topic Specific
 
@@ -34,3 +35,7 @@ INDEX: indexing for the new technologies i learn everyday
 
 
 - [[0001_SSR_react_express]]
+
+
+## Next
+- [[0001_appwrite_zustand_auth_nextjs]]

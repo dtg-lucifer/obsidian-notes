@@ -13,19 +13,7 @@ share_updated: 2024-07-03T12:07:26+05:30
 ---
 # Rich Text Editor Libraries
 
-1. **Slate.js**: A highly customizable framework for building rich text editors in React.
-   - **Website**: [Slate.js](https://www.slatejs.org/)
-   - **Features**: Extensible, supports complex formatting, plugins, and markdown.
-
-2. **Draft.js**: A rich text editor framework for React developed by Facebook.
-   - **Website**: [Draft.js](https://draftjs.org/)
-   - **Features**: Supports custom block and inline styles, plugins, and integrations.
-
-3. **Quill**: A modern WYSIWYG editor built for compatibility and extensibility.
-   - **Website**: [Quill](https://quilljs.com/)
-   - **Features**: Custom themes, modules, and a large number of formatting options.
-
-4. **Tiptap**: A renderless and extendable rich text editor for Vue.js, but it also has a React wrapper. #tiptap #rich-text-editor
+1. **Tiptap**: A renderless and extendable rich text editor for Vue.js, but it also has a React wrapper. #tiptap #rich-text-editor
    - **Website**: [Tiptap](https://tiptap.dev/)
    - **Features**: Extensible, collaborative editing, and markdown support.
    - **Documentation**: [Starter-kit documentation](https://github.com/ueberdosis/tiptap/blob/develop/docs/api/extensions/starter-kit.md), [Details about each node and extension](https://tiptap.dev/docs/editor/extensions/nodes/)
@@ -52,6 +40,11 @@ const Tiptap = () => {
 
 export default Tiptap;
 ```
+
+2. **Novel.js**: [Notion-style Rich Text Editor in NextJs - YouTube](https://www.youtube.com/watch?v=hP0TcRcr95Q)
+	- Documentation: [Introduction - Novel Docs](https://novel.sh/docs/introduction)
+	- Example: [HamedBahram/next-novel (github.com)](https://github.com/HamedBahram/next-novel)
+
 ---
 # Sketching libraries
 

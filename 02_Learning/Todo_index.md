@@ -1,3 +1,5 @@
 - [[Frontend_index]]
 - [[Backend_Index]]
 - [[DSA_Index]] - #dsa #algorithms
+- [[devops_index]]
+- [[system_desing_index]]
