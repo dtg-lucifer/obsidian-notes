@@ -65,6 +65,17 @@ Keeping track about how our app is working and finding any issues that the app i
 ![[Pasted image 20240727230424.png]]
 
 Free online books - [ahmedamsaleh/Free-DevOps-Books-1: A curated collection of free DevOps related eBooks (github.com)](https://github.com/ahmedamsaleh/Free-DevOps-Books-1/)
+```
+version control
+linux
+coding
+agile development
+operations
+docker/kubernetes
+ansible
+jenkins
+monitoring
+```
 
 1. ***[[#linux]]**
 2. ***[[#networking]]***

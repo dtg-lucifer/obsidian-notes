@@ -9,7 +9,8 @@ INDEX: indexing for the networking section for the devops
 - [[001_tools_used_in_networking]]
 - [[002_topologies]]
 - [[003_topics]]
-- 
+- [[004_OSI_model]]
+- [[005_tcp_ip_model]]
 
 
 
